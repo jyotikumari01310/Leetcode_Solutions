@@ -20,6 +20,7 @@
 | [0930-binary-subarrays-with-sum](https://github.com/jyotikumari01310/Leetcode_Solutions/tree/master/0930-binary-subarrays-with-sum) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/jyotikumari01310/Leetcode_Solutions/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1248-count-number-of-nice-subarrays](https://github.com/jyotikumari01310/Leetcode_Solutions/tree/master/1248-count-number-of-nice-subarrays) |
+| [1915-number-of-wonderful-substrings](https://github.com/jyotikumari01310/Leetcode_Solutions/tree/master/1915-number-of-wonderful-substrings) |
 | [2574-left-and-right-sum-differences](https://github.com/jyotikumari01310/Leetcode_Solutions/tree/master/2574-left-and-right-sum-differences) |
 ## Hash Table
 |  |
@@ -30,6 +31,7 @@
 | [0930-binary-subarrays-with-sum](https://github.com/jyotikumari01310/Leetcode_Solutions/tree/master/0930-binary-subarrays-with-sum) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/jyotikumari01310/Leetcode_Solutions/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1248-count-number-of-nice-subarrays](https://github.com/jyotikumari01310/Leetcode_Solutions/tree/master/1248-count-number-of-nice-subarrays) |
+| [1915-number-of-wonderful-substrings](https://github.com/jyotikumari01310/Leetcode_Solutions/tree/master/1915-number-of-wonderful-substrings) |
 ## Math
 |  |
 | ------- |
@@ -40,4 +42,12 @@
 | ------- |
 | [0930-binary-subarrays-with-sum](https://github.com/jyotikumari01310/Leetcode_Solutions/tree/master/0930-binary-subarrays-with-sum) |
 | [1248-count-number-of-nice-subarrays](https://github.com/jyotikumari01310/Leetcode_Solutions/tree/master/1248-count-number-of-nice-subarrays) |
+## String
+|  |
+| ------- |
+| [1915-number-of-wonderful-substrings](https://github.com/jyotikumari01310/Leetcode_Solutions/tree/master/1915-number-of-wonderful-substrings) |
+## Bit Manipulation
+|  |
+| ------- |
+| [1915-number-of-wonderful-substrings](https://github.com/jyotikumari01310/Leetcode_Solutions/tree/master/1915-number-of-wonderful-substrings) |
 <!---LeetCode Topics End-->
