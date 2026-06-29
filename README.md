@@ -45,9 +45,18 @@
 ## String
 |  |
 | ------- |
+| [0394-decode-string](https://github.com/jyotikumari01310/Leetcode_Solutions/tree/master/0394-decode-string) |
 | [1915-number-of-wonderful-substrings](https://github.com/jyotikumari01310/Leetcode_Solutions/tree/master/1915-number-of-wonderful-substrings) |
 ## Bit Manipulation
 |  |
 | ------- |
 | [1915-number-of-wonderful-substrings](https://github.com/jyotikumari01310/Leetcode_Solutions/tree/master/1915-number-of-wonderful-substrings) |
+## Stack
+|  |
+| ------- |
+| [0394-decode-string](https://github.com/jyotikumari01310/Leetcode_Solutions/tree/master/0394-decode-string) |
+## Recursion
+|  |
+| ------- |
+| [0394-decode-string](https://github.com/jyotikumari01310/Leetcode_Solutions/tree/master/0394-decode-string) |
 <!---LeetCode Topics End-->
