@@ -5,7 +5,7 @@ class Solution {
         map.put(0, -1);
 
         int prefix = 0;
-        int max = 0;
+        int maxlen = 0;
 
         for (int i = 0; i < nums.length; i++) {
 
@@ -15,12 +15,12 @@ class Solution {
                 prefix++;
 
             if (map.containsKey(prefix)) {
-                max = Math.max(max, i - map.get(prefix));
+                maxlen = Math.max(maxlen, i - map.get(prefix));
             } else {
                 map.put(prefix, i);
             }
         }
 
-        return max;
+        return maxlen;
     }
 }
