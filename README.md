@@ -31,6 +31,7 @@
 | [0930-binary-subarrays-with-sum](https://github.com/jyotikumari01310/Leetcode_Solutions/tree/master/0930-binary-subarrays-with-sum) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/jyotikumari01310/Leetcode_Solutions/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1248-count-number-of-nice-subarrays](https://github.com/jyotikumari01310/Leetcode_Solutions/tree/master/1248-count-number-of-nice-subarrays) |
+| [1358-number-of-substrings-containing-all-three-characters](https://github.com/jyotikumari01310/Leetcode_Solutions/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1915-number-of-wonderful-substrings](https://github.com/jyotikumari01310/Leetcode_Solutions/tree/master/1915-number-of-wonderful-substrings) |
 ## Math
 |  |
@@ -42,11 +43,13 @@
 | ------- |
 | [0930-binary-subarrays-with-sum](https://github.com/jyotikumari01310/Leetcode_Solutions/tree/master/0930-binary-subarrays-with-sum) |
 | [1248-count-number-of-nice-subarrays](https://github.com/jyotikumari01310/Leetcode_Solutions/tree/master/1248-count-number-of-nice-subarrays) |
+| [1358-number-of-substrings-containing-all-three-characters](https://github.com/jyotikumari01310/Leetcode_Solutions/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 ## String
 |  |
 | ------- |
 | [0071-simplify-path](https://github.com/jyotikumari01310/Leetcode_Solutions/tree/master/0071-simplify-path) |
 | [0394-decode-string](https://github.com/jyotikumari01310/Leetcode_Solutions/tree/master/0394-decode-string) |
+| [1358-number-of-substrings-containing-all-three-characters](https://github.com/jyotikumari01310/Leetcode_Solutions/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1915-number-of-wonderful-substrings](https://github.com/jyotikumari01310/Leetcode_Solutions/tree/master/1915-number-of-wonderful-substrings) |
 ## Bit Manipulation
 |  |
