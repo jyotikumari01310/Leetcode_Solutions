@@ -52,6 +52,7 @@
 | [0856-score-of-parentheses](https://github.com/jyotikumari01310/Leetcode_Solutions/tree/master/0856-score-of-parentheses) |
 | [1249-minimum-remove-to-make-valid-parentheses](https://github.com/jyotikumari01310/Leetcode_Solutions/tree/master/1249-minimum-remove-to-make-valid-parentheses) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/jyotikumari01310/Leetcode_Solutions/tree/master/1358-number-of-substrings-containing-all-three-characters) |
+| [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/jyotikumari01310/Leetcode_Solutions/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [1915-number-of-wonderful-substrings](https://github.com/jyotikumari01310/Leetcode_Solutions/tree/master/1915-number-of-wonderful-substrings) |
 ## Bit Manipulation
 |  |
@@ -65,6 +66,7 @@
 | [0394-decode-string](https://github.com/jyotikumari01310/Leetcode_Solutions/tree/master/0394-decode-string) |
 | [0856-score-of-parentheses](https://github.com/jyotikumari01310/Leetcode_Solutions/tree/master/0856-score-of-parentheses) |
 | [1249-minimum-remove-to-make-valid-parentheses](https://github.com/jyotikumari01310/Leetcode_Solutions/tree/master/1249-minimum-remove-to-make-valid-parentheses) |
+| [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/jyotikumari01310/Leetcode_Solutions/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 ## Recursion
 |  |
 | ------- |
@@ -77,4 +79,8 @@
 |  |
 | ------- |
 | [0232-implement-queue-using-stacks](https://github.com/jyotikumari01310/Leetcode_Solutions/tree/master/0232-implement-queue-using-stacks) |
+## Greedy
+|  |
+| ------- |
+| [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/jyotikumari01310/Leetcode_Solutions/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 <!---LeetCode Topics End-->
