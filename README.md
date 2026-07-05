@@ -59,9 +59,18 @@
 |  |
 | ------- |
 | [0071-simplify-path](https://github.com/jyotikumari01310/Leetcode_Solutions/tree/master/0071-simplify-path) |
+| [0232-implement-queue-using-stacks](https://github.com/jyotikumari01310/Leetcode_Solutions/tree/master/0232-implement-queue-using-stacks) |
 | [0394-decode-string](https://github.com/jyotikumari01310/Leetcode_Solutions/tree/master/0394-decode-string) |
 ## Recursion
 |  |
 | ------- |
 | [0394-decode-string](https://github.com/jyotikumari01310/Leetcode_Solutions/tree/master/0394-decode-string) |
+## Design
+|  |
+| ------- |
+| [0232-implement-queue-using-stacks](https://github.com/jyotikumari01310/Leetcode_Solutions/tree/master/0232-implement-queue-using-stacks) |
+## Queue
+|  |
+| ------- |
+| [0232-implement-queue-using-stacks](https://github.com/jyotikumari01310/Leetcode_Solutions/tree/master/0232-implement-queue-using-stacks) |
 <!---LeetCode Topics End-->
