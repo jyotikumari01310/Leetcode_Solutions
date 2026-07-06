@@ -10,6 +10,7 @@
 | [0930-binary-subarrays-with-sum](https://github.com/jyotikumari01310/Leetcode_Solutions/tree/master/0930-binary-subarrays-with-sum) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/jyotikumari01310/Leetcode_Solutions/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1248-count-number-of-nice-subarrays](https://github.com/jyotikumari01310/Leetcode_Solutions/tree/master/1248-count-number-of-nice-subarrays) |
+| [1288-remove-covered-intervals](https://github.com/jyotikumari01310/Leetcode_Solutions/tree/master/1288-remove-covered-intervals) |
 | [2574-left-and-right-sum-differences](https://github.com/jyotikumari01310/Leetcode_Solutions/tree/master/2574-left-and-right-sum-differences) |
 ## Prefix Sum
 |  |
@@ -83,4 +84,8 @@
 |  |
 | ------- |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/jyotikumari01310/Leetcode_Solutions/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
+## Sorting
+|  |
+| ------- |
+| [1288-remove-covered-intervals](https://github.com/jyotikumari01310/Leetcode_Solutions/tree/master/1288-remove-covered-intervals) |
 <!---LeetCode Topics End-->
