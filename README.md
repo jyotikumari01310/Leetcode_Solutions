@@ -88,4 +88,8 @@
 |  |
 | ------- |
 | [1288-remove-covered-intervals](https://github.com/jyotikumari01310/Leetcode_Solutions/tree/master/1288-remove-covered-intervals) |
+## Database
+|  |
+| ------- |
+| [0175-combine-two-tables](https://github.com/jyotikumari01310/Leetcode_Solutions/tree/master/0175-combine-two-tables) |
 <!---LeetCode Topics End-->
