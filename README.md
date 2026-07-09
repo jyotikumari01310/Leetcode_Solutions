@@ -15,6 +15,7 @@
 | [1248-count-number-of-nice-subarrays](https://github.com/jyotikumari01310/Leetcode_Solutions/tree/master/1248-count-number-of-nice-subarrays) |
 | [1288-remove-covered-intervals](https://github.com/jyotikumari01310/Leetcode_Solutions/tree/master/1288-remove-covered-intervals) |
 | [2574-left-and-right-sum-differences](https://github.com/jyotikumari01310/Leetcode_Solutions/tree/master/2574-left-and-right-sum-differences) |
+| [3532-path-existence-queries-in-a-graph-i](https://github.com/jyotikumari01310/Leetcode_Solutions/tree/master/3532-path-existence-queries-in-a-graph-i) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -39,6 +40,7 @@
 | [1248-count-number-of-nice-subarrays](https://github.com/jyotikumari01310/Leetcode_Solutions/tree/master/1248-count-number-of-nice-subarrays) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/jyotikumari01310/Leetcode_Solutions/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1915-number-of-wonderful-substrings](https://github.com/jyotikumari01310/Leetcode_Solutions/tree/master/1915-number-of-wonderful-substrings) |
+| [3532-path-existence-queries-in-a-graph-i](https://github.com/jyotikumari01310/Leetcode_Solutions/tree/master/3532-path-existence-queries-in-a-graph-i) |
 ## Math
 |  |
 | ------- |
@@ -101,4 +103,16 @@
 |  |
 | ------- |
 | [0175-combine-two-tables](https://github.com/jyotikumari01310/Leetcode_Solutions/tree/master/0175-combine-two-tables) |
+## Binary Search
+|  |
+| ------- |
+| [3532-path-existence-queries-in-a-graph-i](https://github.com/jyotikumari01310/Leetcode_Solutions/tree/master/3532-path-existence-queries-in-a-graph-i) |
+## Union-Find
+|  |
+| ------- |
+| [3532-path-existence-queries-in-a-graph-i](https://github.com/jyotikumari01310/Leetcode_Solutions/tree/master/3532-path-existence-queries-in-a-graph-i) |
+## Graph Theory
+|  |
+| ------- |
+| [3532-path-existence-queries-in-a-graph-i](https://github.com/jyotikumari01310/Leetcode_Solutions/tree/master/3532-path-existence-queries-in-a-graph-i) |
 <!---LeetCode Topics End-->
