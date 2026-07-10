@@ -4,6 +4,7 @@
 ## Array
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/jyotikumari01310/Leetcode_Solutions/tree/master/0053-maximum-subarray) |
 | [0217-contains-duplicate](https://github.com/jyotikumari01310/Leetcode_Solutions/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/jyotikumari01310/Leetcode_Solutions/tree/master/0219-contains-duplicate-ii) |
 | [0414-third-maximum-number](https://github.com/jyotikumari01310/Leetcode_Solutions/tree/master/0414-third-maximum-number) |
@@ -123,4 +124,12 @@
 |  |
 | ------- |
 | [1051-height-checker](https://github.com/jyotikumari01310/Leetcode_Solutions/tree/master/1051-height-checker) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0053-maximum-subarray](https://github.com/jyotikumari01310/Leetcode_Solutions/tree/master/0053-maximum-subarray) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0053-maximum-subarray](https://github.com/jyotikumari01310/Leetcode_Solutions/tree/master/0053-maximum-subarray) |
 <!---LeetCode Topics End-->
