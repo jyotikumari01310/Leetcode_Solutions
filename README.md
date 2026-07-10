@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/jyotikumari01310/Leetcode_Solutions/tree/master/0053-maximum-subarray) |
+| [0075-sort-colors](https://github.com/jyotikumari01310/Leetcode_Solutions/tree/master/0075-sort-colors) |
 | [0217-contains-duplicate](https://github.com/jyotikumari01310/Leetcode_Solutions/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/jyotikumari01310/Leetcode_Solutions/tree/master/0219-contains-duplicate-ii) |
 | [0414-third-maximum-number](https://github.com/jyotikumari01310/Leetcode_Solutions/tree/master/0414-third-maximum-number) |
@@ -100,6 +101,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/jyotikumari01310/Leetcode_Solutions/tree/master/0075-sort-colors) |
 | [0217-contains-duplicate](https://github.com/jyotikumari01310/Leetcode_Solutions/tree/master/0217-contains-duplicate) |
 | [0414-third-maximum-number](https://github.com/jyotikumari01310/Leetcode_Solutions/tree/master/0414-third-maximum-number) |
 | [1051-height-checker](https://github.com/jyotikumari01310/Leetcode_Solutions/tree/master/1051-height-checker) |
@@ -132,4 +134,8 @@
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/jyotikumari01310/Leetcode_Solutions/tree/master/0053-maximum-subarray) |
+## Two Pointers
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/jyotikumari01310/Leetcode_Solutions/tree/master/0075-sort-colors) |
 <!---LeetCode Topics End-->
