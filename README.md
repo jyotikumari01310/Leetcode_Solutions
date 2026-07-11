@@ -8,6 +8,7 @@
 | [0041-first-missing-positive](https://github.com/jyotikumari01310/Leetcode_Solutions/tree/master/0041-first-missing-positive) |
 | [0053-maximum-subarray](https://github.com/jyotikumari01310/Leetcode_Solutions/tree/master/0053-maximum-subarray) |
 | [0056-merge-intervals](https://github.com/jyotikumari01310/Leetcode_Solutions/tree/master/0056-merge-intervals) |
+| [0074-search-a-2d-matrix](https://github.com/jyotikumari01310/Leetcode_Solutions/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/jyotikumari01310/Leetcode_Solutions/tree/master/0075-sort-colors) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/jyotikumari01310/Leetcode_Solutions/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/jyotikumari01310/Leetcode_Solutions/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
@@ -122,6 +123,7 @@
 |  |
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/jyotikumari01310/Leetcode_Solutions/tree/master/0033-search-in-rotated-sorted-array) |
+| [0074-search-a-2d-matrix](https://github.com/jyotikumari01310/Leetcode_Solutions/tree/master/0074-search-a-2d-matrix) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/jyotikumari01310/Leetcode_Solutions/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/jyotikumari01310/Leetcode_Solutions/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0278-first-bad-version](https://github.com/jyotikumari01310/Leetcode_Solutions/tree/master/0278-first-bad-version) |
@@ -157,4 +159,8 @@
 | ------- |
 | [0278-first-bad-version](https://github.com/jyotikumari01310/Leetcode_Solutions/tree/master/0278-first-bad-version) |
 | [0374-guess-number-higher-or-lower](https://github.com/jyotikumari01310/Leetcode_Solutions/tree/master/0374-guess-number-higher-or-lower) |
+## Matrix
+|  |
+| ------- |
+| [0074-search-a-2d-matrix](https://github.com/jyotikumari01310/Leetcode_Solutions/tree/master/0074-search-a-2d-matrix) |
 <!---LeetCode Topics End-->
