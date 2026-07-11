@@ -10,6 +10,7 @@
 | [0056-merge-intervals](https://github.com/jyotikumari01310/Leetcode_Solutions/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/jyotikumari01310/Leetcode_Solutions/tree/master/0075-sort-colors) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/jyotikumari01310/Leetcode_Solutions/tree/master/0081-search-in-rotated-sorted-array-ii) |
+| [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/jyotikumari01310/Leetcode_Solutions/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0217-contains-duplicate](https://github.com/jyotikumari01310/Leetcode_Solutions/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/jyotikumari01310/Leetcode_Solutions/tree/master/0219-contains-duplicate-ii) |
 | [0414-third-maximum-number](https://github.com/jyotikumari01310/Leetcode_Solutions/tree/master/0414-third-maximum-number) |
@@ -122,6 +123,7 @@
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/jyotikumari01310/Leetcode_Solutions/tree/master/0033-search-in-rotated-sorted-array) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/jyotikumari01310/Leetcode_Solutions/tree/master/0081-search-in-rotated-sorted-array-ii) |
+| [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/jyotikumari01310/Leetcode_Solutions/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0278-first-bad-version](https://github.com/jyotikumari01310/Leetcode_Solutions/tree/master/0278-first-bad-version) |
 | [0374-guess-number-higher-or-lower](https://github.com/jyotikumari01310/Leetcode_Solutions/tree/master/0374-guess-number-higher-or-lower) |
 | [0704-binary-search](https://github.com/jyotikumari01310/Leetcode_Solutions/tree/master/0704-binary-search) |
