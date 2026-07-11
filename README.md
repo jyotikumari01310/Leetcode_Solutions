@@ -121,6 +121,7 @@
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/jyotikumari01310/Leetcode_Solutions/tree/master/0033-search-in-rotated-sorted-array) |
 | [0278-first-bad-version](https://github.com/jyotikumari01310/Leetcode_Solutions/tree/master/0278-first-bad-version) |
+| [0374-guess-number-higher-or-lower](https://github.com/jyotikumari01310/Leetcode_Solutions/tree/master/0374-guess-number-higher-or-lower) |
 | [0704-binary-search](https://github.com/jyotikumari01310/Leetcode_Solutions/tree/master/0704-binary-search) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/jyotikumari01310/Leetcode_Solutions/tree/master/3532-path-existence-queries-in-a-graph-i) |
 ## Union-Find
@@ -151,4 +152,5 @@
 |  |
 | ------- |
 | [0278-first-bad-version](https://github.com/jyotikumari01310/Leetcode_Solutions/tree/master/0278-first-bad-version) |
+| [0374-guess-number-higher-or-lower](https://github.com/jyotikumari01310/Leetcode_Solutions/tree/master/0374-guess-number-higher-or-lower) |
 <!---LeetCode Topics End-->
