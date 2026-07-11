@@ -14,6 +14,7 @@
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/jyotikumari01310/Leetcode_Solutions/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0217-contains-duplicate](https://github.com/jyotikumari01310/Leetcode_Solutions/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/jyotikumari01310/Leetcode_Solutions/tree/master/0219-contains-duplicate-ii) |
+| [0240-search-a-2d-matrix-ii](https://github.com/jyotikumari01310/Leetcode_Solutions/tree/master/0240-search-a-2d-matrix-ii) |
 | [0414-third-maximum-number](https://github.com/jyotikumari01310/Leetcode_Solutions/tree/master/0414-third-maximum-number) |
 | [0523-continuous-subarray-sum](https://github.com/jyotikumari01310/Leetcode_Solutions/tree/master/0523-continuous-subarray-sum) |
 | [0525-contiguous-array](https://github.com/jyotikumari01310/Leetcode_Solutions/tree/master/0525-contiguous-array) |
@@ -126,6 +127,7 @@
 | [0074-search-a-2d-matrix](https://github.com/jyotikumari01310/Leetcode_Solutions/tree/master/0074-search-a-2d-matrix) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/jyotikumari01310/Leetcode_Solutions/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/jyotikumari01310/Leetcode_Solutions/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
+| [0240-search-a-2d-matrix-ii](https://github.com/jyotikumari01310/Leetcode_Solutions/tree/master/0240-search-a-2d-matrix-ii) |
 | [0278-first-bad-version](https://github.com/jyotikumari01310/Leetcode_Solutions/tree/master/0278-first-bad-version) |
 | [0374-guess-number-higher-or-lower](https://github.com/jyotikumari01310/Leetcode_Solutions/tree/master/0374-guess-number-higher-or-lower) |
 | [0704-binary-search](https://github.com/jyotikumari01310/Leetcode_Solutions/tree/master/0704-binary-search) |
@@ -146,6 +148,7 @@
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/jyotikumari01310/Leetcode_Solutions/tree/master/0053-maximum-subarray) |
+| [0240-search-a-2d-matrix-ii](https://github.com/jyotikumari01310/Leetcode_Solutions/tree/master/0240-search-a-2d-matrix-ii) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -163,4 +166,5 @@
 |  |
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/jyotikumari01310/Leetcode_Solutions/tree/master/0074-search-a-2d-matrix) |
+| [0240-search-a-2d-matrix-ii](https://github.com/jyotikumari01310/Leetcode_Solutions/tree/master/0240-search-a-2d-matrix-ii) |
 <!---LeetCode Topics End-->
