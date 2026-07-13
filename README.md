@@ -45,6 +45,7 @@
 |  |
 | ------- |
 | [0041-first-missing-positive](https://github.com/jyotikumari01310/Leetcode_Solutions/tree/master/0041-first-missing-positive) |
+| [0160-intersection-of-two-linked-lists](https://github.com/jyotikumari01310/Leetcode_Solutions/tree/master/0160-intersection-of-two-linked-lists) |
 | [0217-contains-duplicate](https://github.com/jyotikumari01310/Leetcode_Solutions/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/jyotikumari01310/Leetcode_Solutions/tree/master/0219-contains-duplicate-ii) |
 | [0523-continuous-subarray-sum](https://github.com/jyotikumari01310/Leetcode_Solutions/tree/master/0523-continuous-subarray-sum) |
@@ -162,6 +163,7 @@
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/jyotikumari01310/Leetcode_Solutions/tree/master/0075-sort-colors) |
+| [0160-intersection-of-two-linked-lists](https://github.com/jyotikumari01310/Leetcode_Solutions/tree/master/0160-intersection-of-two-linked-lists) |
 ## Interactive
 |  |
 | ------- |
@@ -172,4 +174,8 @@
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/jyotikumari01310/Leetcode_Solutions/tree/master/0074-search-a-2d-matrix) |
 | [0240-search-a-2d-matrix-ii](https://github.com/jyotikumari01310/Leetcode_Solutions/tree/master/0240-search-a-2d-matrix-ii) |
+## Linked List
+|  |
+| ------- |
+| [0160-intersection-of-two-linked-lists](https://github.com/jyotikumari01310/Leetcode_Solutions/tree/master/0160-intersection-of-two-linked-lists) |
 <!---LeetCode Topics End-->
