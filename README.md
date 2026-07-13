@@ -20,6 +20,7 @@
 | [0525-contiguous-array](https://github.com/jyotikumari01310/Leetcode_Solutions/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/jyotikumari01310/Leetcode_Solutions/tree/master/0560-subarray-sum-equals-k) |
 | [0704-binary-search](https://github.com/jyotikumari01310/Leetcode_Solutions/tree/master/0704-binary-search) |
+| [0875-koko-eating-bananas](https://github.com/jyotikumari01310/Leetcode_Solutions/tree/master/0875-koko-eating-bananas) |
 | [0930-binary-subarrays-with-sum](https://github.com/jyotikumari01310/Leetcode_Solutions/tree/master/0930-binary-subarrays-with-sum) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/jyotikumari01310/Leetcode_Solutions/tree/master/0974-subarray-sums-divisible-by-k) |
 | [0989-add-to-array-form-of-integer](https://github.com/jyotikumari01310/Leetcode_Solutions/tree/master/0989-add-to-array-form-of-integer) |
@@ -134,6 +135,7 @@
 | [0278-first-bad-version](https://github.com/jyotikumari01310/Leetcode_Solutions/tree/master/0278-first-bad-version) |
 | [0374-guess-number-higher-or-lower](https://github.com/jyotikumari01310/Leetcode_Solutions/tree/master/0374-guess-number-higher-or-lower) |
 | [0704-binary-search](https://github.com/jyotikumari01310/Leetcode_Solutions/tree/master/0704-binary-search) |
+| [0875-koko-eating-bananas](https://github.com/jyotikumari01310/Leetcode_Solutions/tree/master/0875-koko-eating-bananas) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/jyotikumari01310/Leetcode_Solutions/tree/master/3532-path-existence-queries-in-a-graph-i) |
 ## Union-Find
 |  |
