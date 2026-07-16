@@ -116,6 +116,7 @@
 | ------- |
 | [0056-merge-intervals](https://github.com/jyotikumari01310/Leetcode_Solutions/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/jyotikumari01310/Leetcode_Solutions/tree/master/0075-sort-colors) |
+| [0148-sort-list](https://github.com/jyotikumari01310/Leetcode_Solutions/tree/master/0148-sort-list) |
 | [0217-contains-duplicate](https://github.com/jyotikumari01310/Leetcode_Solutions/tree/master/0217-contains-duplicate) |
 | [0414-third-maximum-number](https://github.com/jyotikumari01310/Leetcode_Solutions/tree/master/0414-third-maximum-number) |
 | [1051-height-checker](https://github.com/jyotikumari01310/Leetcode_Solutions/tree/master/1051-height-checker) |
@@ -154,6 +155,7 @@
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/jyotikumari01310/Leetcode_Solutions/tree/master/0053-maximum-subarray) |
+| [0148-sort-list](https://github.com/jyotikumari01310/Leetcode_Solutions/tree/master/0148-sort-list) |
 | [0240-search-a-2d-matrix-ii](https://github.com/jyotikumari01310/Leetcode_Solutions/tree/master/0240-search-a-2d-matrix-ii) |
 ## Dynamic Programming
 |  |
@@ -163,6 +165,7 @@
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/jyotikumari01310/Leetcode_Solutions/tree/master/0075-sort-colors) |
+| [0148-sort-list](https://github.com/jyotikumari01310/Leetcode_Solutions/tree/master/0148-sort-list) |
 | [0160-intersection-of-two-linked-lists](https://github.com/jyotikumari01310/Leetcode_Solutions/tree/master/0160-intersection-of-two-linked-lists) |
 ## Interactive
 |  |
@@ -177,5 +180,10 @@
 ## Linked List
 |  |
 | ------- |
+| [0148-sort-list](https://github.com/jyotikumari01310/Leetcode_Solutions/tree/master/0148-sort-list) |
 | [0160-intersection-of-two-linked-lists](https://github.com/jyotikumari01310/Leetcode_Solutions/tree/master/0160-intersection-of-two-linked-lists) |
+## Merge Sort
+|  |
+| ------- |
+| [0148-sort-list](https://github.com/jyotikumari01310/Leetcode_Solutions/tree/master/0148-sort-list) |
 <!---LeetCode Topics End-->
