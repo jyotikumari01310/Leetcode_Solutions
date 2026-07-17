@@ -49,6 +49,7 @@
 | [0160-intersection-of-two-linked-lists](https://github.com/jyotikumari01310/Leetcode_Solutions/tree/master/0160-intersection-of-two-linked-lists) |
 | [0217-contains-duplicate](https://github.com/jyotikumari01310/Leetcode_Solutions/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/jyotikumari01310/Leetcode_Solutions/tree/master/0219-contains-duplicate-ii) |
+| [0387-first-unique-character-in-a-string](https://github.com/jyotikumari01310/Leetcode_Solutions/tree/master/0387-first-unique-character-in-a-string) |
 | [0523-continuous-subarray-sum](https://github.com/jyotikumari01310/Leetcode_Solutions/tree/master/0523-continuous-subarray-sum) |
 | [0525-contiguous-array](https://github.com/jyotikumari01310/Leetcode_Solutions/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/jyotikumari01310/Leetcode_Solutions/tree/master/0560-subarray-sum-equals-k) |
@@ -77,6 +78,7 @@
 |  |
 | ------- |
 | [0071-simplify-path](https://github.com/jyotikumari01310/Leetcode_Solutions/tree/master/0071-simplify-path) |
+| [0387-first-unique-character-in-a-string](https://github.com/jyotikumari01310/Leetcode_Solutions/tree/master/0387-first-unique-character-in-a-string) |
 | [0394-decode-string](https://github.com/jyotikumari01310/Leetcode_Solutions/tree/master/0394-decode-string) |
 | [0709-to-lower-case](https://github.com/jyotikumari01310/Leetcode_Solutions/tree/master/0709-to-lower-case) |
 | [0856-score-of-parentheses](https://github.com/jyotikumari01310/Leetcode_Solutions/tree/master/0856-score-of-parentheses) |
@@ -109,6 +111,7 @@
 |  |
 | ------- |
 | [0232-implement-queue-using-stacks](https://github.com/jyotikumari01310/Leetcode_Solutions/tree/master/0232-implement-queue-using-stacks) |
+| [0387-first-unique-character-in-a-string](https://github.com/jyotikumari01310/Leetcode_Solutions/tree/master/0387-first-unique-character-in-a-string) |
 ## Greedy
 |  |
 | ------- |
@@ -152,6 +155,7 @@
 ## Counting Sort
 |  |
 | ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/jyotikumari01310/Leetcode_Solutions/tree/master/0387-first-unique-character-in-a-string) |
 | [1051-height-checker](https://github.com/jyotikumari01310/Leetcode_Solutions/tree/master/1051-height-checker) |
 ## Divide and Conquer
 |  |
