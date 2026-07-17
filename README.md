@@ -28,6 +28,7 @@
 | [1248-count-number-of-nice-subarrays](https://github.com/jyotikumari01310/Leetcode_Solutions/tree/master/1248-count-number-of-nice-subarrays) |
 | [1288-remove-covered-intervals](https://github.com/jyotikumari01310/Leetcode_Solutions/tree/master/1288-remove-covered-intervals) |
 | [1331-rank-transform-of-an-array](https://github.com/jyotikumari01310/Leetcode_Solutions/tree/master/1331-rank-transform-of-an-array) |
+| [1920-build-array-from-permutation](https://github.com/jyotikumari01310/Leetcode_Solutions/tree/master/1920-build-array-from-permutation) |
 | [2574-left-and-right-sum-differences](https://github.com/jyotikumari01310/Leetcode_Solutions/tree/master/2574-left-and-right-sum-differences) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/jyotikumari01310/Leetcode_Solutions/tree/master/3532-path-existence-queries-in-a-graph-i) |
 ## Prefix Sum
@@ -186,4 +187,8 @@
 |  |
 | ------- |
 | [0148-sort-list](https://github.com/jyotikumari01310/Leetcode_Solutions/tree/master/0148-sort-list) |
+## Simulation
+|  |
+| ------- |
+| [1920-build-array-from-permutation](https://github.com/jyotikumari01310/Leetcode_Solutions/tree/master/1920-build-array-from-permutation) |
 <!---LeetCode Topics End-->
