@@ -84,6 +84,7 @@
 | [0394-decode-string](https://github.com/jyotikumari01310/Leetcode_Solutions/tree/master/0394-decode-string) |
 | [0709-to-lower-case](https://github.com/jyotikumari01310/Leetcode_Solutions/tree/master/0709-to-lower-case) |
 | [0856-score-of-parentheses](https://github.com/jyotikumari01310/Leetcode_Solutions/tree/master/0856-score-of-parentheses) |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/jyotikumari01310/Leetcode_Solutions/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1249-minimum-remove-to-make-valid-parentheses](https://github.com/jyotikumari01310/Leetcode_Solutions/tree/master/1249-minimum-remove-to-make-valid-parentheses) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/jyotikumari01310/Leetcode_Solutions/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/jyotikumari01310/Leetcode_Solutions/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
@@ -99,6 +100,7 @@
 | [0232-implement-queue-using-stacks](https://github.com/jyotikumari01310/Leetcode_Solutions/tree/master/0232-implement-queue-using-stacks) |
 | [0394-decode-string](https://github.com/jyotikumari01310/Leetcode_Solutions/tree/master/0394-decode-string) |
 | [0856-score-of-parentheses](https://github.com/jyotikumari01310/Leetcode_Solutions/tree/master/0856-score-of-parentheses) |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/jyotikumari01310/Leetcode_Solutions/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1249-minimum-remove-to-make-valid-parentheses](https://github.com/jyotikumari01310/Leetcode_Solutions/tree/master/1249-minimum-remove-to-make-valid-parentheses) |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/jyotikumari01310/Leetcode_Solutions/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 ## Recursion
@@ -117,6 +119,7 @@
 ## Greedy
 |  |
 | ------- |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/jyotikumari01310/Leetcode_Solutions/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/jyotikumari01310/Leetcode_Solutions/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 ## Sorting
 |  |
@@ -202,4 +205,8 @@
 |  |
 | ------- |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/jyotikumari01310/Leetcode_Solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
+## Monotonic Stack
+|  |
+| ------- |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/jyotikumari01310/Leetcode_Solutions/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 <!---LeetCode Topics End-->
