@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/jyotikumari01310/Leetcode_Solutions/tree/master/0033-search-in-rotated-sorted-array) |
+| [0039-combination-sum](https://github.com/jyotikumari01310/Leetcode_Solutions/tree/master/0039-combination-sum) |
 | [0041-first-missing-positive](https://github.com/jyotikumari01310/Leetcode_Solutions/tree/master/0041-first-missing-positive) |
 | [0053-maximum-subarray](https://github.com/jyotikumari01310/Leetcode_Solutions/tree/master/0053-maximum-subarray) |
 | [0056-merge-intervals](https://github.com/jyotikumari01310/Leetcode_Solutions/tree/master/0056-merge-intervals) |
@@ -209,4 +210,8 @@
 |  |
 | ------- |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/jyotikumari01310/Leetcode_Solutions/tree/master/1081-smallest-subsequence-of-distinct-characters) |
+## Backtracking
+|  |
+| ------- |
+| [0039-combination-sum](https://github.com/jyotikumari01310/Leetcode_Solutions/tree/master/0039-combination-sum) |
 <!---LeetCode Topics End-->
