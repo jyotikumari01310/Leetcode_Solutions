@@ -27,6 +27,7 @@
 | [0989-add-to-array-form-of-integer](https://github.com/jyotikumari01310/Leetcode_Solutions/tree/master/0989-add-to-array-form-of-integer) |
 | [1051-height-checker](https://github.com/jyotikumari01310/Leetcode_Solutions/tree/master/1051-height-checker) |
 | [1248-count-number-of-nice-subarrays](https://github.com/jyotikumari01310/Leetcode_Solutions/tree/master/1248-count-number-of-nice-subarrays) |
+| [1260-shift-2d-grid](https://github.com/jyotikumari01310/Leetcode_Solutions/tree/master/1260-shift-2d-grid) |
 | [1288-remove-covered-intervals](https://github.com/jyotikumari01310/Leetcode_Solutions/tree/master/1288-remove-covered-intervals) |
 | [1331-rank-transform-of-an-array](https://github.com/jyotikumari01310/Leetcode_Solutions/tree/master/1331-rank-transform-of-an-array) |
 | [1920-build-array-from-permutation](https://github.com/jyotikumari01310/Leetcode_Solutions/tree/master/1920-build-array-from-permutation) |
@@ -189,6 +190,7 @@
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/jyotikumari01310/Leetcode_Solutions/tree/master/0074-search-a-2d-matrix) |
 | [0240-search-a-2d-matrix-ii](https://github.com/jyotikumari01310/Leetcode_Solutions/tree/master/0240-search-a-2d-matrix-ii) |
+| [1260-shift-2d-grid](https://github.com/jyotikumari01310/Leetcode_Solutions/tree/master/1260-shift-2d-grid) |
 ## Linked List
 |  |
 | ------- |
@@ -201,6 +203,7 @@
 ## Simulation
 |  |
 | ------- |
+| [1260-shift-2d-grid](https://github.com/jyotikumari01310/Leetcode_Solutions/tree/master/1260-shift-2d-grid) |
 | [1920-build-array-from-permutation](https://github.com/jyotikumari01310/Leetcode_Solutions/tree/master/1920-build-array-from-permutation) |
 ## Number Theory
 |  |
