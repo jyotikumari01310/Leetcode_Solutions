@@ -66,6 +66,7 @@
 ## Math
 |  |
 | ------- |
+| [0445-add-two-numbers-ii](https://github.com/jyotikumari01310/Leetcode_Solutions/tree/master/0445-add-two-numbers-ii) |
 | [0523-continuous-subarray-sum](https://github.com/jyotikumari01310/Leetcode_Solutions/tree/master/0523-continuous-subarray-sum) |
 | [0989-add-to-array-form-of-integer](https://github.com/jyotikumari01310/Leetcode_Solutions/tree/master/0989-add-to-array-form-of-integer) |
 | [1248-count-number-of-nice-subarrays](https://github.com/jyotikumari01310/Leetcode_Solutions/tree/master/1248-count-number-of-nice-subarrays) |
@@ -101,6 +102,7 @@
 | [0071-simplify-path](https://github.com/jyotikumari01310/Leetcode_Solutions/tree/master/0071-simplify-path) |
 | [0232-implement-queue-using-stacks](https://github.com/jyotikumari01310/Leetcode_Solutions/tree/master/0232-implement-queue-using-stacks) |
 | [0394-decode-string](https://github.com/jyotikumari01310/Leetcode_Solutions/tree/master/0394-decode-string) |
+| [0445-add-two-numbers-ii](https://github.com/jyotikumari01310/Leetcode_Solutions/tree/master/0445-add-two-numbers-ii) |
 | [0856-score-of-parentheses](https://github.com/jyotikumari01310/Leetcode_Solutions/tree/master/0856-score-of-parentheses) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/jyotikumari01310/Leetcode_Solutions/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1249-minimum-remove-to-make-valid-parentheses](https://github.com/jyotikumari01310/Leetcode_Solutions/tree/master/1249-minimum-remove-to-make-valid-parentheses) |
@@ -196,6 +198,7 @@
 | ------- |
 | [0148-sort-list](https://github.com/jyotikumari01310/Leetcode_Solutions/tree/master/0148-sort-list) |
 | [0160-intersection-of-two-linked-lists](https://github.com/jyotikumari01310/Leetcode_Solutions/tree/master/0160-intersection-of-two-linked-lists) |
+| [0445-add-two-numbers-ii](https://github.com/jyotikumari01310/Leetcode_Solutions/tree/master/0445-add-two-numbers-ii) |
 ## Merge Sort
 |  |
 | ------- |
