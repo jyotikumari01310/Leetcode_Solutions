@@ -87,6 +87,7 @@
 | [0387-first-unique-character-in-a-string](https://github.com/jyotikumari01310/Leetcode_Solutions/tree/master/0387-first-unique-character-in-a-string) |
 | [0394-decode-string](https://github.com/jyotikumari01310/Leetcode_Solutions/tree/master/0394-decode-string) |
 | [0709-to-lower-case](https://github.com/jyotikumari01310/Leetcode_Solutions/tree/master/0709-to-lower-case) |
+| [0844-backspace-string-compare](https://github.com/jyotikumari01310/Leetcode_Solutions/tree/master/0844-backspace-string-compare) |
 | [0856-score-of-parentheses](https://github.com/jyotikumari01310/Leetcode_Solutions/tree/master/0856-score-of-parentheses) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/jyotikumari01310/Leetcode_Solutions/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1249-minimum-remove-to-make-valid-parentheses](https://github.com/jyotikumari01310/Leetcode_Solutions/tree/master/1249-minimum-remove-to-make-valid-parentheses) |
@@ -105,6 +106,7 @@
 | [0394-decode-string](https://github.com/jyotikumari01310/Leetcode_Solutions/tree/master/0394-decode-string) |
 | [0445-add-two-numbers-ii](https://github.com/jyotikumari01310/Leetcode_Solutions/tree/master/0445-add-two-numbers-ii) |
 | [0682-baseball-game](https://github.com/jyotikumari01310/Leetcode_Solutions/tree/master/0682-baseball-game) |
+| [0844-backspace-string-compare](https://github.com/jyotikumari01310/Leetcode_Solutions/tree/master/0844-backspace-string-compare) |
 | [0856-score-of-parentheses](https://github.com/jyotikumari01310/Leetcode_Solutions/tree/master/0856-score-of-parentheses) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/jyotikumari01310/Leetcode_Solutions/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1249-minimum-remove-to-make-valid-parentheses](https://github.com/jyotikumari01310/Leetcode_Solutions/tree/master/1249-minimum-remove-to-make-valid-parentheses) |
@@ -184,6 +186,7 @@
 | [0075-sort-colors](https://github.com/jyotikumari01310/Leetcode_Solutions/tree/master/0075-sort-colors) |
 | [0148-sort-list](https://github.com/jyotikumari01310/Leetcode_Solutions/tree/master/0148-sort-list) |
 | [0160-intersection-of-two-linked-lists](https://github.com/jyotikumari01310/Leetcode_Solutions/tree/master/0160-intersection-of-two-linked-lists) |
+| [0844-backspace-string-compare](https://github.com/jyotikumari01310/Leetcode_Solutions/tree/master/0844-backspace-string-compare) |
 ## Interactive
 |  |
 | ------- |
@@ -209,6 +212,7 @@
 |  |
 | ------- |
 | [0682-baseball-game](https://github.com/jyotikumari01310/Leetcode_Solutions/tree/master/0682-baseball-game) |
+| [0844-backspace-string-compare](https://github.com/jyotikumari01310/Leetcode_Solutions/tree/master/0844-backspace-string-compare) |
 | [1260-shift-2d-grid](https://github.com/jyotikumari01310/Leetcode_Solutions/tree/master/1260-shift-2d-grid) |
 | [1920-build-array-from-permutation](https://github.com/jyotikumari01310/Leetcode_Solutions/tree/master/1920-build-array-from-permutation) |
 ## Number Theory
