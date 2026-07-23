@@ -20,6 +20,7 @@
 | [0523-continuous-subarray-sum](https://github.com/jyotikumari01310/Leetcode_Solutions/tree/master/0523-continuous-subarray-sum) |
 | [0525-contiguous-array](https://github.com/jyotikumari01310/Leetcode_Solutions/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/jyotikumari01310/Leetcode_Solutions/tree/master/0560-subarray-sum-equals-k) |
+| [0682-baseball-game](https://github.com/jyotikumari01310/Leetcode_Solutions/tree/master/0682-baseball-game) |
 | [0704-binary-search](https://github.com/jyotikumari01310/Leetcode_Solutions/tree/master/0704-binary-search) |
 | [0875-koko-eating-bananas](https://github.com/jyotikumari01310/Leetcode_Solutions/tree/master/0875-koko-eating-bananas) |
 | [0930-binary-subarrays-with-sum](https://github.com/jyotikumari01310/Leetcode_Solutions/tree/master/0930-binary-subarrays-with-sum) |
@@ -103,6 +104,7 @@
 | [0232-implement-queue-using-stacks](https://github.com/jyotikumari01310/Leetcode_Solutions/tree/master/0232-implement-queue-using-stacks) |
 | [0394-decode-string](https://github.com/jyotikumari01310/Leetcode_Solutions/tree/master/0394-decode-string) |
 | [0445-add-two-numbers-ii](https://github.com/jyotikumari01310/Leetcode_Solutions/tree/master/0445-add-two-numbers-ii) |
+| [0682-baseball-game](https://github.com/jyotikumari01310/Leetcode_Solutions/tree/master/0682-baseball-game) |
 | [0856-score-of-parentheses](https://github.com/jyotikumari01310/Leetcode_Solutions/tree/master/0856-score-of-parentheses) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/jyotikumari01310/Leetcode_Solutions/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1249-minimum-remove-to-make-valid-parentheses](https://github.com/jyotikumari01310/Leetcode_Solutions/tree/master/1249-minimum-remove-to-make-valid-parentheses) |
@@ -206,6 +208,7 @@
 ## Simulation
 |  |
 | ------- |
+| [0682-baseball-game](https://github.com/jyotikumari01310/Leetcode_Solutions/tree/master/0682-baseball-game) |
 | [1260-shift-2d-grid](https://github.com/jyotikumari01310/Leetcode_Solutions/tree/master/1260-shift-2d-grid) |
 | [1920-build-array-from-permutation](https://github.com/jyotikumari01310/Leetcode_Solutions/tree/master/1920-build-array-from-permutation) |
 ## Number Theory
