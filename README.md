@@ -21,6 +21,7 @@
 | [0523-continuous-subarray-sum](https://github.com/jyotikumari01310/Leetcode_Solutions/tree/master/0523-continuous-subarray-sum) |
 | [0525-contiguous-array](https://github.com/jyotikumari01310/Leetcode_Solutions/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/jyotikumari01310/Leetcode_Solutions/tree/master/0560-subarray-sum-equals-k) |
+| [0628-maximum-product-of-three-numbers](https://github.com/jyotikumari01310/Leetcode_Solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0682-baseball-game](https://github.com/jyotikumari01310/Leetcode_Solutions/tree/master/0682-baseball-game) |
 | [0704-binary-search](https://github.com/jyotikumari01310/Leetcode_Solutions/tree/master/0704-binary-search) |
 | [0875-koko-eating-bananas](https://github.com/jyotikumari01310/Leetcode_Solutions/tree/master/0875-koko-eating-bananas) |
@@ -71,6 +72,7 @@
 | ------- |
 | [0445-add-two-numbers-ii](https://github.com/jyotikumari01310/Leetcode_Solutions/tree/master/0445-add-two-numbers-ii) |
 | [0523-continuous-subarray-sum](https://github.com/jyotikumari01310/Leetcode_Solutions/tree/master/0523-continuous-subarray-sum) |
+| [0628-maximum-product-of-three-numbers](https://github.com/jyotikumari01310/Leetcode_Solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0989-add-to-array-form-of-integer](https://github.com/jyotikumari01310/Leetcode_Solutions/tree/master/0989-add-to-array-form-of-integer) |
 | [1248-count-number-of-nice-subarrays](https://github.com/jyotikumari01310/Leetcode_Solutions/tree/master/1248-count-number-of-nice-subarrays) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/jyotikumari01310/Leetcode_Solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
@@ -140,6 +142,7 @@
 | [0148-sort-list](https://github.com/jyotikumari01310/Leetcode_Solutions/tree/master/0148-sort-list) |
 | [0217-contains-duplicate](https://github.com/jyotikumari01310/Leetcode_Solutions/tree/master/0217-contains-duplicate) |
 | [0414-third-maximum-number](https://github.com/jyotikumari01310/Leetcode_Solutions/tree/master/0414-third-maximum-number) |
+| [0628-maximum-product-of-three-numbers](https://github.com/jyotikumari01310/Leetcode_Solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [1051-height-checker](https://github.com/jyotikumari01310/Leetcode_Solutions/tree/master/1051-height-checker) |
 | [1288-remove-covered-intervals](https://github.com/jyotikumari01310/Leetcode_Solutions/tree/master/1288-remove-covered-intervals) |
 | [1331-rank-transform-of-an-array](https://github.com/jyotikumari01310/Leetcode_Solutions/tree/master/1331-rank-transform-of-an-array) |
