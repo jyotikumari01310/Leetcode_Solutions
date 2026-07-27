@@ -33,6 +33,7 @@
 | [1260-shift-2d-grid](https://github.com/jyotikumari01310/Leetcode_Solutions/tree/master/1260-shift-2d-grid) |
 | [1288-remove-covered-intervals](https://github.com/jyotikumari01310/Leetcode_Solutions/tree/master/1288-remove-covered-intervals) |
 | [1331-rank-transform-of-an-array](https://github.com/jyotikumari01310/Leetcode_Solutions/tree/master/1331-rank-transform-of-an-array) |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/jyotikumari01310/Leetcode_Solutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1920-build-array-from-permutation](https://github.com/jyotikumari01310/Leetcode_Solutions/tree/master/1920-build-array-from-permutation) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/jyotikumari01310/Leetcode_Solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2574-left-and-right-sum-differences](https://github.com/jyotikumari01310/Leetcode_Solutions/tree/master/2574-left-and-right-sum-differences) |
@@ -146,6 +147,7 @@
 | [1051-height-checker](https://github.com/jyotikumari01310/Leetcode_Solutions/tree/master/1051-height-checker) |
 | [1288-remove-covered-intervals](https://github.com/jyotikumari01310/Leetcode_Solutions/tree/master/1288-remove-covered-intervals) |
 | [1331-rank-transform-of-an-array](https://github.com/jyotikumari01310/Leetcode_Solutions/tree/master/1331-rank-transform-of-an-array) |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/jyotikumari01310/Leetcode_Solutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 ## Database
 |  |
 | ------- |
@@ -234,4 +236,8 @@
 |  |
 | ------- |
 | [0039-combination-sum](https://github.com/jyotikumari01310/Leetcode_Solutions/tree/master/0039-combination-sum) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/jyotikumari01310/Leetcode_Solutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 <!---LeetCode Topics End-->
