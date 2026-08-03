@@ -98,6 +98,7 @@
 | [1249-minimum-remove-to-make-valid-parentheses](https://github.com/jyotikumari01310/Leetcode_Solutions/tree/master/1249-minimum-remove-to-make-valid-parentheses) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/jyotikumari01310/Leetcode_Solutions/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/jyotikumari01310/Leetcode_Solutions/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
+| [1910-remove-all-occurrences-of-a-substring](https://github.com/jyotikumari01310/Leetcode_Solutions/tree/master/1910-remove-all-occurrences-of-a-substring) |
 | [1915-number-of-wonderful-substrings](https://github.com/jyotikumari01310/Leetcode_Solutions/tree/master/1915-number-of-wonderful-substrings) |
 ## Bit Manipulation
 |  |
@@ -117,6 +118,7 @@
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/jyotikumari01310/Leetcode_Solutions/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1249-minimum-remove-to-make-valid-parentheses](https://github.com/jyotikumari01310/Leetcode_Solutions/tree/master/1249-minimum-remove-to-make-valid-parentheses) |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/jyotikumari01310/Leetcode_Solutions/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
+| [1910-remove-all-occurrences-of-a-substring](https://github.com/jyotikumari01310/Leetcode_Solutions/tree/master/1910-remove-all-occurrences-of-a-substring) |
 ## Recursion
 |  |
 | ------- |
@@ -222,6 +224,7 @@
 | [0682-baseball-game](https://github.com/jyotikumari01310/Leetcode_Solutions/tree/master/0682-baseball-game) |
 | [0844-backspace-string-compare](https://github.com/jyotikumari01310/Leetcode_Solutions/tree/master/0844-backspace-string-compare) |
 | [1260-shift-2d-grid](https://github.com/jyotikumari01310/Leetcode_Solutions/tree/master/1260-shift-2d-grid) |
+| [1910-remove-all-occurrences-of-a-substring](https://github.com/jyotikumari01310/Leetcode_Solutions/tree/master/1910-remove-all-occurrences-of-a-substring) |
 | [1920-build-array-from-permutation](https://github.com/jyotikumari01310/Leetcode_Solutions/tree/master/1920-build-array-from-permutation) |
 ## Number Theory
 |  |
