@@ -246,4 +246,20 @@
 |  |
 | ------- |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/jyotikumari01310/Leetcode_Solutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+## Tree
+|  |
+| ------- |
+| [0112-path-sum](https://github.com/jyotikumari01310/Leetcode_Solutions/tree/master/0112-path-sum) |
+## Depth-First Search
+|  |
+| ------- |
+| [0112-path-sum](https://github.com/jyotikumari01310/Leetcode_Solutions/tree/master/0112-path-sum) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0112-path-sum](https://github.com/jyotikumari01310/Leetcode_Solutions/tree/master/0112-path-sum) |
+## Binary Tree
+|  |
+| ------- |
+| [0112-path-sum](https://github.com/jyotikumari01310/Leetcode_Solutions/tree/master/0112-path-sum) |
 <!---LeetCode Topics End-->
