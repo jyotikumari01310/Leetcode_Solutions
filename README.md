@@ -110,6 +110,7 @@
 |  |
 | ------- |
 | [0071-simplify-path](https://github.com/jyotikumari01310/Leetcode_Solutions/tree/master/0071-simplify-path) |
+| [0094-binary-tree-inorder-traversal](https://github.com/jyotikumari01310/Leetcode_Solutions/tree/master/0094-binary-tree-inorder-traversal) |
 | [0232-implement-queue-using-stacks](https://github.com/jyotikumari01310/Leetcode_Solutions/tree/master/0232-implement-queue-using-stacks) |
 | [0394-decode-string](https://github.com/jyotikumari01310/Leetcode_Solutions/tree/master/0394-decode-string) |
 | [0445-add-two-numbers-ii](https://github.com/jyotikumari01310/Leetcode_Solutions/tree/master/0445-add-two-numbers-ii) |
@@ -249,10 +250,12 @@
 ## Tree
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/jyotikumari01310/Leetcode_Solutions/tree/master/0094-binary-tree-inorder-traversal) |
 | [0112-path-sum](https://github.com/jyotikumari01310/Leetcode_Solutions/tree/master/0112-path-sum) |
 ## Depth-First Search
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/jyotikumari01310/Leetcode_Solutions/tree/master/0094-binary-tree-inorder-traversal) |
 | [0112-path-sum](https://github.com/jyotikumari01310/Leetcode_Solutions/tree/master/0112-path-sum) |
 ## Breadth-First Search
 |  |
@@ -261,5 +264,6 @@
 ## Binary Tree
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/jyotikumari01310/Leetcode_Solutions/tree/master/0094-binary-tree-inorder-traversal) |
 | [0112-path-sum](https://github.com/jyotikumari01310/Leetcode_Solutions/tree/master/0112-path-sum) |
 <!---LeetCode Topics End-->
