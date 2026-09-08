@@ -74,6 +74,7 @@
 ## Math
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/jyotikumari01310/Leetcode_Solutions/tree/master/0070-climbing-stairs) |
 | [0445-add-two-numbers-ii](https://github.com/jyotikumari01310/Leetcode_Solutions/tree/master/0445-add-two-numbers-ii) |
 | [0509-fibonacci-number](https://github.com/jyotikumari01310/Leetcode_Solutions/tree/master/0509-fibonacci-number) |
 | [0523-continuous-subarray-sum](https://github.com/jyotikumari01310/Leetcode_Solutions/tree/master/0523-continuous-subarray-sum) |
@@ -198,6 +199,7 @@
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/jyotikumari01310/Leetcode_Solutions/tree/master/0053-maximum-subarray) |
+| [0070-climbing-stairs](https://github.com/jyotikumari01310/Leetcode_Solutions/tree/master/0070-climbing-stairs) |
 | [0509-fibonacci-number](https://github.com/jyotikumari01310/Leetcode_Solutions/tree/master/0509-fibonacci-number) |
 ## Two Pointers
 |  |
@@ -274,5 +276,6 @@
 ## Memoization
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/jyotikumari01310/Leetcode_Solutions/tree/master/0070-climbing-stairs) |
 | [0509-fibonacci-number](https://github.com/jyotikumari01310/Leetcode_Solutions/tree/master/0509-fibonacci-number) |
 <!---LeetCode Topics End-->
