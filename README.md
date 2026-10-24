@@ -84,6 +84,7 @@
 | [0989-add-to-array-form-of-integer](https://github.com/jyotikumari01310/Leetcode_Solutions/tree/master/0989-add-to-array-form-of-integer) |
 | [1248-count-number-of-nice-subarrays](https://github.com/jyotikumari01310/Leetcode_Solutions/tree/master/1248-count-number-of-nice-subarrays) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/jyotikumari01310/Leetcode_Solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [2409-count-days-spent-together](https://github.com/jyotikumari01310/Leetcode_Solutions/tree/master/2409-count-days-spent-together) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/jyotikumari01310/Leetcode_Solutions/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 | [3875-construct-uniform-parity-array-i](https://github.com/jyotikumari01310/Leetcode_Solutions/tree/master/3875-construct-uniform-parity-array-i) |
 ## Sliding Window
@@ -108,6 +109,7 @@
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/jyotikumari01310/Leetcode_Solutions/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/jyotikumari01310/Leetcode_Solutions/tree/master/1910-remove-all-occurrences-of-a-substring) |
 | [1915-number-of-wonderful-substrings](https://github.com/jyotikumari01310/Leetcode_Solutions/tree/master/1915-number-of-wonderful-substrings) |
+| [2409-count-days-spent-together](https://github.com/jyotikumari01310/Leetcode_Solutions/tree/master/2409-count-days-spent-together) |
 ## Bit Manipulation
 |  |
 | ------- |
