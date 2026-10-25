@@ -30,6 +30,7 @@
 | [0989-add-to-array-form-of-integer](https://github.com/jyotikumari01310/Leetcode_Solutions/tree/master/0989-add-to-array-form-of-integer) |
 | [1051-height-checker](https://github.com/jyotikumari01310/Leetcode_Solutions/tree/master/1051-height-checker) |
 | [1248-count-number-of-nice-subarrays](https://github.com/jyotikumari01310/Leetcode_Solutions/tree/master/1248-count-number-of-nice-subarrays) |
+| [1254-number-of-closed-islands](https://github.com/jyotikumari01310/Leetcode_Solutions/tree/master/1254-number-of-closed-islands) |
 | [1260-shift-2d-grid](https://github.com/jyotikumari01310/Leetcode_Solutions/tree/master/1260-shift-2d-grid) |
 | [1288-remove-covered-intervals](https://github.com/jyotikumari01310/Leetcode_Solutions/tree/master/1288-remove-covered-intervals) |
 | [1331-rank-transform-of-an-array](https://github.com/jyotikumari01310/Leetcode_Solutions/tree/master/1331-rank-transform-of-an-array) |
@@ -183,6 +184,7 @@
 ## Union-Find
 |  |
 | ------- |
+| [1254-number-of-closed-islands](https://github.com/jyotikumari01310/Leetcode_Solutions/tree/master/1254-number-of-closed-islands) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/jyotikumari01310/Leetcode_Solutions/tree/master/3532-path-existence-queries-in-a-graph-i) |
 ## Graph Theory
 |  |
@@ -222,6 +224,7 @@
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/jyotikumari01310/Leetcode_Solutions/tree/master/0074-search-a-2d-matrix) |
 | [0240-search-a-2d-matrix-ii](https://github.com/jyotikumari01310/Leetcode_Solutions/tree/master/0240-search-a-2d-matrix-ii) |
+| [1254-number-of-closed-islands](https://github.com/jyotikumari01310/Leetcode_Solutions/tree/master/1254-number-of-closed-islands) |
 | [1260-shift-2d-grid](https://github.com/jyotikumari01310/Leetcode_Solutions/tree/master/1260-shift-2d-grid) |
 ## Linked List
 |  |
@@ -268,10 +271,12 @@
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/jyotikumari01310/Leetcode_Solutions/tree/master/0094-binary-tree-inorder-traversal) |
 | [0112-path-sum](https://github.com/jyotikumari01310/Leetcode_Solutions/tree/master/0112-path-sum) |
+| [1254-number-of-closed-islands](https://github.com/jyotikumari01310/Leetcode_Solutions/tree/master/1254-number-of-closed-islands) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [0112-path-sum](https://github.com/jyotikumari01310/Leetcode_Solutions/tree/master/0112-path-sum) |
+| [1254-number-of-closed-islands](https://github.com/jyotikumari01310/Leetcode_Solutions/tree/master/1254-number-of-closed-islands) |
 ## Binary Tree
 |  |
 | ------- |
