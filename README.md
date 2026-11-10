@@ -43,6 +43,7 @@
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/jyotikumari01310/Leetcode_Solutions/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/jyotikumari01310/Leetcode_Solutions/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/jyotikumari01310/Leetcode_Solutions/tree/master/3532-path-existence-queries-in-a-graph-i) |
+| [3693-climbing-stairs-ii](https://github.com/jyotikumari01310/Leetcode_Solutions/tree/master/3693-climbing-stairs-ii) |
 | [3875-construct-uniform-parity-array-i](https://github.com/jyotikumari01310/Leetcode_Solutions/tree/master/3875-construct-uniform-parity-array-i) |
 ## Prefix Sum
 |  |
@@ -211,6 +212,7 @@
 | [0198-house-robber](https://github.com/jyotikumari01310/Leetcode_Solutions/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/jyotikumari01310/Leetcode_Solutions/tree/master/0213-house-robber-ii) |
 | [0509-fibonacci-number](https://github.com/jyotikumari01310/Leetcode_Solutions/tree/master/0509-fibonacci-number) |
+| [3693-climbing-stairs-ii](https://github.com/jyotikumari01310/Leetcode_Solutions/tree/master/3693-climbing-stairs-ii) |
 ## Two Pointers
 |  |
 | ------- |
