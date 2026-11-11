@@ -80,6 +80,7 @@
 ## Math
 |  |
 | ------- |
+| [0062-unique-paths](https://github.com/jyotikumari01310/Leetcode_Solutions/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/jyotikumari01310/Leetcode_Solutions/tree/master/0070-climbing-stairs) |
 | [0445-add-two-numbers-ii](https://github.com/jyotikumari01310/Leetcode_Solutions/tree/master/0445-add-two-numbers-ii) |
 | [0509-fibonacci-number](https://github.com/jyotikumari01310/Leetcode_Solutions/tree/master/0509-fibonacci-number) |
@@ -208,6 +209,7 @@
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/jyotikumari01310/Leetcode_Solutions/tree/master/0053-maximum-subarray) |
+| [0062-unique-paths](https://github.com/jyotikumari01310/Leetcode_Solutions/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/jyotikumari01310/Leetcode_Solutions/tree/master/0070-climbing-stairs) |
 | [0198-house-robber](https://github.com/jyotikumari01310/Leetcode_Solutions/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/jyotikumari01310/Leetcode_Solutions/tree/master/0213-house-robber-ii) |
@@ -301,4 +303,8 @@
 |  |
 | ------- |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/jyotikumari01310/Leetcode_Solutions/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
+## Combinatorics
+|  |
+| ------- |
+| [0062-unique-paths](https://github.com/jyotikumari01310/Leetcode_Solutions/tree/master/0062-unique-paths) |
 <!---LeetCode Topics End-->
