@@ -35,6 +35,7 @@
 | [1248-count-number-of-nice-subarrays](https://github.com/jyotikumari01310/Leetcode_Solutions/tree/master/1248-count-number-of-nice-subarrays) |
 | [1254-number-of-closed-islands](https://github.com/jyotikumari01310/Leetcode_Solutions/tree/master/1254-number-of-closed-islands) |
 | [1260-shift-2d-grid](https://github.com/jyotikumari01310/Leetcode_Solutions/tree/master/1260-shift-2d-grid) |
+| [1277-count-square-submatrices-with-all-ones](https://github.com/jyotikumari01310/Leetcode_Solutions/tree/master/1277-count-square-submatrices-with-all-ones) |
 | [1288-remove-covered-intervals](https://github.com/jyotikumari01310/Leetcode_Solutions/tree/master/1288-remove-covered-intervals) |
 | [1331-rank-transform-of-an-array](https://github.com/jyotikumari01310/Leetcode_Solutions/tree/master/1331-rank-transform-of-an-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/jyotikumari01310/Leetcode_Solutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
@@ -216,6 +217,7 @@
 | [0198-house-robber](https://github.com/jyotikumari01310/Leetcode_Solutions/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/jyotikumari01310/Leetcode_Solutions/tree/master/0213-house-robber-ii) |
 | [0509-fibonacci-number](https://github.com/jyotikumari01310/Leetcode_Solutions/tree/master/0509-fibonacci-number) |
+| [1277-count-square-submatrices-with-all-ones](https://github.com/jyotikumari01310/Leetcode_Solutions/tree/master/1277-count-square-submatrices-with-all-ones) |
 | [3693-climbing-stairs-ii](https://github.com/jyotikumari01310/Leetcode_Solutions/tree/master/3693-climbing-stairs-ii) |
 ## Two Pointers
 |  |
@@ -237,6 +239,7 @@
 | [0240-search-a-2d-matrix-ii](https://github.com/jyotikumari01310/Leetcode_Solutions/tree/master/0240-search-a-2d-matrix-ii) |
 | [1254-number-of-closed-islands](https://github.com/jyotikumari01310/Leetcode_Solutions/tree/master/1254-number-of-closed-islands) |
 | [1260-shift-2d-grid](https://github.com/jyotikumari01310/Leetcode_Solutions/tree/master/1260-shift-2d-grid) |
+| [1277-count-square-submatrices-with-all-ones](https://github.com/jyotikumari01310/Leetcode_Solutions/tree/master/1277-count-square-submatrices-with-all-ones) |
 ## Linked List
 |  |
 | ------- |
