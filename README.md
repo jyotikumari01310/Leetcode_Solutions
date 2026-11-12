@@ -9,6 +9,7 @@
 | [0041-first-missing-positive](https://github.com/jyotikumari01310/Leetcode_Solutions/tree/master/0041-first-missing-positive) |
 | [0053-maximum-subarray](https://github.com/jyotikumari01310/Leetcode_Solutions/tree/master/0053-maximum-subarray) |
 | [0056-merge-intervals](https://github.com/jyotikumari01310/Leetcode_Solutions/tree/master/0056-merge-intervals) |
+| [0064-minimum-path-sum](https://github.com/jyotikumari01310/Leetcode_Solutions/tree/master/0064-minimum-path-sum) |
 | [0074-search-a-2d-matrix](https://github.com/jyotikumari01310/Leetcode_Solutions/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/jyotikumari01310/Leetcode_Solutions/tree/master/0075-sort-colors) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/jyotikumari01310/Leetcode_Solutions/tree/master/0081-search-in-rotated-sorted-array-ii) |
@@ -210,6 +211,7 @@
 | ------- |
 | [0053-maximum-subarray](https://github.com/jyotikumari01310/Leetcode_Solutions/tree/master/0053-maximum-subarray) |
 | [0062-unique-paths](https://github.com/jyotikumari01310/Leetcode_Solutions/tree/master/0062-unique-paths) |
+| [0064-minimum-path-sum](https://github.com/jyotikumari01310/Leetcode_Solutions/tree/master/0064-minimum-path-sum) |
 | [0070-climbing-stairs](https://github.com/jyotikumari01310/Leetcode_Solutions/tree/master/0070-climbing-stairs) |
 | [0198-house-robber](https://github.com/jyotikumari01310/Leetcode_Solutions/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/jyotikumari01310/Leetcode_Solutions/tree/master/0213-house-robber-ii) |
@@ -230,6 +232,7 @@
 ## Matrix
 |  |
 | ------- |
+| [0064-minimum-path-sum](https://github.com/jyotikumari01310/Leetcode_Solutions/tree/master/0064-minimum-path-sum) |
 | [0074-search-a-2d-matrix](https://github.com/jyotikumari01310/Leetcode_Solutions/tree/master/0074-search-a-2d-matrix) |
 | [0240-search-a-2d-matrix-ii](https://github.com/jyotikumari01310/Leetcode_Solutions/tree/master/0240-search-a-2d-matrix-ii) |
 | [1254-number-of-closed-islands](https://github.com/jyotikumari01310/Leetcode_Solutions/tree/master/1254-number-of-closed-islands) |
