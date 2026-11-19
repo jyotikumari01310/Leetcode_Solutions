@@ -20,6 +20,7 @@
 | [0219-contains-duplicate-ii](https://github.com/jyotikumari01310/Leetcode_Solutions/tree/master/0219-contains-duplicate-ii) |
 | [0240-search-a-2d-matrix-ii](https://github.com/jyotikumari01310/Leetcode_Solutions/tree/master/0240-search-a-2d-matrix-ii) |
 | [0414-third-maximum-number](https://github.com/jyotikumari01310/Leetcode_Solutions/tree/master/0414-third-maximum-number) |
+| [0416-partition-equal-subset-sum](https://github.com/jyotikumari01310/Leetcode_Solutions/tree/master/0416-partition-equal-subset-sum) |
 | [0496-next-greater-element-i](https://github.com/jyotikumari01310/Leetcode_Solutions/tree/master/0496-next-greater-element-i) |
 | [0523-continuous-subarray-sum](https://github.com/jyotikumari01310/Leetcode_Solutions/tree/master/0523-continuous-subarray-sum) |
 | [0525-contiguous-array](https://github.com/jyotikumari01310/Leetcode_Solutions/tree/master/0525-contiguous-array) |
@@ -219,6 +220,7 @@
 | [0070-climbing-stairs](https://github.com/jyotikumari01310/Leetcode_Solutions/tree/master/0070-climbing-stairs) |
 | [0198-house-robber](https://github.com/jyotikumari01310/Leetcode_Solutions/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/jyotikumari01310/Leetcode_Solutions/tree/master/0213-house-robber-ii) |
+| [0416-partition-equal-subset-sum](https://github.com/jyotikumari01310/Leetcode_Solutions/tree/master/0416-partition-equal-subset-sum) |
 | [0509-fibonacci-number](https://github.com/jyotikumari01310/Leetcode_Solutions/tree/master/0509-fibonacci-number) |
 | [1277-count-square-submatrices-with-all-ones](https://github.com/jyotikumari01310/Leetcode_Solutions/tree/master/1277-count-square-submatrices-with-all-ones) |
 | [3693-climbing-stairs-ii](https://github.com/jyotikumari01310/Leetcode_Solutions/tree/master/3693-climbing-stairs-ii) |
@@ -316,4 +318,12 @@
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/jyotikumari01310/Leetcode_Solutions/tree/master/0062-unique-paths) |
+## Knapsack Problem
+|  |
+| ------- |
+| [0416-partition-equal-subset-sum](https://github.com/jyotikumari01310/Leetcode_Solutions/tree/master/0416-partition-equal-subset-sum) |
+## 0-1 Knapsack
+|  |
+| ------- |
+| [0416-partition-equal-subset-sum](https://github.com/jyotikumari01310/Leetcode_Solutions/tree/master/0416-partition-equal-subset-sum) |
 <!---LeetCode Topics End-->
